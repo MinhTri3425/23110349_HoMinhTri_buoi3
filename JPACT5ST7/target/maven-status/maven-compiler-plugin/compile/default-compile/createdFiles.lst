@@ -1,0 +1,7 @@
+vn\iotstar\dao\Impl\CategoryDaoImpl.class
+vn\iotstar\entity\Category.class
+vn\iotstar\services\CategoryService.class
+vn\iotstar\controllers\admin\CategoryController.class
+vn\iotstar\dao\CategoryDao.class
+vn\iotstar\services\Impl\CategoryServiceImpl.class
+vn\iotstar\configs\JPAConfig.class
